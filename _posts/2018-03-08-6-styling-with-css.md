@@ -28,3 +28,5 @@ Here are a few more images you can add to your page:
 [Dorthy Vaughan](https://github.com/SaphMB/iwd-workshop/blob/master/images/dorothy-vaughan2.jpeg?raw=true)
 [Octavia Spencer as Dorothy Vaughan](https://github.com/SaphMB/iwd-workshop/blob/master/images/hidden-figures1.gif?raw=true)
 [Octavia Spencer as Dorothy Vaughan](https://github.com/SaphMB/iwd-workshop/blob/master/images/hidden-figures2.gif?raw=true)
+
+Up next: [Styling with CSS](https://saphmb.github.io/iwd-workshop/2018/03/08/6-styling-with-css.html)

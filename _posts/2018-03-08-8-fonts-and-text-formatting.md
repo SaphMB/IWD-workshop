@@ -66,4 +66,4 @@ We can also emphasise or make text important. For emphasis we use `<em>` and for
 
 Let's add some emphasis to Dorothy's quote about working at Langley during the Space Age.
 
-Up next: [Images and Styling]()
+Up next: [Images and Styling](https://saphmb.github.io/iwd-workshop/2018/03/08/7-images.html)
