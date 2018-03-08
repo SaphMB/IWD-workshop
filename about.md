@@ -6,9 +6,11 @@ published: true
 ---
 
 Early life
+
 Vaughan was born September 20, 1910 in Kansas City, Missouri, the daughter of Annie and Leonard Johnson. Her family moved to Morgantown, West Virginia, where she graduated from Beechurst High School in 1925. Receiving a full-tuition scholarship, she graduated at the age of 19 with a B.A. in mathematics in 1929 from Wilberforce University, a historically black college located in Wilberforce, Ohio. In 1932 she married Howard Vaughan. The couple moved to Newport News, Virginia where they had six children; Ann, Maida, Leonard, Kenneth, Michael and Donald.
 
 Career
+
 Although encouraged by professors to do graduate study at Howard University, Vaughan soon started working as a teacher. She wanted to assist her family during the Great Depression. Dorothy married Howard S. Vaughan Jr. in 1932, and the couple had six children.
 
 In 1943, Vaughan began what developed as a 28-year-career as a mathematician and programmer at Langley Research Center. She specialized in calculations for flight paths, the Scout Project, and FORTRAN computer programming. One of her children also later worked at NASA.
@@ -28,13 +30,16 @@ Vaughan continued after NASA, the successor agency, was established in 1958. At 
 During her career at Langley, Vaughan was also raising her six children. One of them later also worked at NASA-Langley. Vaughan lived in Newport News, Virginia and commuted to work at Hampton via public transportation.
 
 FORTRAN
+
 FORTRAN was the world's first high-level programming language. It was developed at IBM by a small team led by John Backus. The earliest version of FORTRAN was released in 1957 as a programming tool for the IBM 704. Fifty years later, FORTRAN remains the programming language of choice for large-scale numerical calculations in science and engineering.
 
 Later years
+
 Vaughan retired from NASA in 1971, at the age of 60. She lived until November 10, 2008, aged 98. Vaughan was a member of Alpha Kappa Alpha, an African-American sorority. She was also an active member of the African Methodist Episcopal Church, where she participated in music and missionary activities. She also wrote a song called “Math Math.
 
 She was survived by four children, ten grandchildren and fourteen great grandchildren.
 
 In popular culture
+
 Vaughan is one of the women featured in Margot Lee Shetterly's 2016 non-fiction book Hidden Figures, and the feature film of the same name, which recounts the stories of Vaughan (played by Octavia Spencer), Katherine Johnson, and Mary Jackson. In the film, the three women calculated flight trajectories for Project Mercury and Apollo 11 in the 1960s.
 
