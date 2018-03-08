@@ -39,12 +39,12 @@ Although the Headings have helped, there are still large chunks of text that are
 ## Exercise
 Use `<p> </p>` tags break the text down into paragraphs.
 
-# 
-Lists
+# Lists
 There are two types of lists that can included on a webpage, ordered and unordered. An unordered list `<ul>` is defined with bullets whilst an ordered list `<ol>` uses a numbered sequence.
 
-In our section on FORTRAN, Let’s create a new <h4> and list some of the other programming languages FORTRAN went on to influnce:
+In our section on FORTRAN, Let’s create a new `<h4>` and list some of the other programming languages FORTRAN went on to influnce:
 
+```
 <h4>FORTRAN influenced</h4>
 <ol>
   <li>ALGOL 58</li>
@@ -56,12 +56,13 @@ In our section on FORTRAN, Let’s create a new <h4> and list some of the other 
   <li>MUMPS and Ratfor.</li>
   <li>Ratfor</li>
 </ol>
+```
 
 If you wanted to make this an unordered list, what would you change? How could you check it worked? Try it, then change your list back to an ordered list.
 
 # Formatting text
 
-We can also emphasise or make text important. For emphasis we use <em> and for importance <strong>
+We can also emphasise or make text important. For emphasis we use `<em>` and for importance `<strong>`
 
 Let's add some emphasis to Dorothy's quote about working at Langley during the Space Age.
 
