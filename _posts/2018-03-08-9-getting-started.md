@@ -3,6 +3,8 @@ layout: post
 title: Getting Started
 ---
 
+*Introducing HTML and CSS*
+
 # What is HTML?
 
 HTML (**H**ypertext **M**arkup **L**anguage) is a a basic building block used to build websites. All text and content that you see on the internet is built using HTML.

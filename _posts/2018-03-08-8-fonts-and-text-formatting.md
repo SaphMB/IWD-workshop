@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Fonts and text formatting
+title: Text formatting and styling
 ---
+
+*Making text more readable with formatting*
 
 During this workshop, you'll be updating and formatting a webpage about [Dorothy Vaughan](https://www.nasa.gov/content/dorothy-vaughan-biography). The basic text you'll be editing can be found [here](https://saphmb.github.io/iwd-workshop/dorothy/).
 

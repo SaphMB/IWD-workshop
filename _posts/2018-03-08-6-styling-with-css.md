@@ -3,7 +3,7 @@ layout: post
 title:  "Styling with CSS"
 ---
 
-After that intitial one sentence definition, it's time to return to CSS.
+It's time to return to CSS.
 
 # What is CSS?
 
