@@ -43,7 +43,7 @@ Open the [Online HTML Editor](http://htmleditor.tools/) to a new HTML file. In y
 * declare the doctype to be HTML
 * open and close a set of `<html></html>` tags
 * Within this, create the head and body tags
-* Inside your head tag create a `<title>` tag with `Dorothy Vaughn` title.
+* Inside your head tag create a `<title>` tag with `Dorothy Vaughan` title.
 
 You should have something that looks like this
 
@@ -51,7 +51,7 @@ You should have something that looks like this
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Dorothy Vaughn</title>
+    <title>Dorothy Vaughan</title>
   </head>
   <body>
   </body>
