@@ -62,4 +62,4 @@ You should have something that looks like this
 
 You shouldn't see anything on your page but this basic configurations will make a huge impact on how information and stying appear on your page.
 
-Up next: [Fonts and text formatting](https://saphmb.github.io/iwd-workshop/2016/05/07/fonts-and-text-formatting.html)
+Up next: [Fonts and text formatting](hhttps://saphmb.github.io/iwd-workshop/2018/03/08/8-fonts-and-text-formatting.html)
