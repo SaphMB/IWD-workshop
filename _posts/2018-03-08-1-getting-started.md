@@ -13,7 +13,7 @@ An element is an HTML building block. There are paragraphs, headings, links, lis
 
 HTML elements are usually made up of an opening tag, followed by content then the closing tag.
 
-<tagname>some content</tagname>
+`<tagname>`some content`</tagname>`
 
 # And CSS?
 CSS is used alongside HTML to style webpages.
@@ -21,12 +21,14 @@ CSS is used alongside HTML to style webpages.
 # Webpage structure
 The doctype is the first thing that must be defined in an HTML page. It tells the browser which version of HTML the page is using.
 
-<!DOCTYPE html>
+`<!DOCTYPE html>`
 The doctype is always followed by the <html> tag, which contains the contents of your page.
 
+```
 <!DOCTYPE html>
 <html>
 </html>
+```
 
 # HEAD and BODY tags
 A HTML page is split into two parts. The head and the body.
