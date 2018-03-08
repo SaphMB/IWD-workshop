@@ -3,7 +3,7 @@ layout: post
 title: Fonts and text formatting
 ---
 
-During this workshop, you'll be updating and formatting a webpage about [Dorothy Vaughan](https://www.nasa.gov/content/dorothy-vaughan-biography). The basic text you'll be editing can be found [here]()https://saphmb.github.io/iwd-workshop/dorothy/.
+During this workshop, you'll be updating and formatting a webpage about [Dorothy Vaughan](https://www.nasa.gov/content/dorothy-vaughan-biography). The basic text you'll be editing can be found [here](https://saphmb.github.io/iwd-workshop/dorothy/).
 
 # Headings
 Headings are used to style and format text in web pages and come in six sizes and are declared using `<h#>` `</h#>` tags that wrap around the text of the heading.
