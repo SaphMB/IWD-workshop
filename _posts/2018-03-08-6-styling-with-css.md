@@ -1,32 +1,89 @@
 ---
 layout: post
-title:  "Images"
+title:  "Styling with CSS"
 ---
 
-It gets a bit boring staring at plain text so lets make our site more exciting with some images.
+After that intitial one sentence definition, it's time to return to CSS.
 
-Images are made up of three attributes:
+# What is CSS?
 
-* the `<img>` tag
-* the `src` attribute, which lets the page know what image we want to view
-* the `alt` attribute, this provides extra information if the image cannot be seen on the webpage for any reason
+CSS (**C**ascading **S**tyle **S**heets) is the language used to style websites.
 
-In order for us to see an image on the webpage we need to link to the image, this involves telling the webpage where it is and what it is called. After the main heading of the page, add the following:
+It defines the visual representation of the content. For example colour, margins, borders, backgrounds, position in the page.
+
+CSS works in conjunction with HTML to change website presentation with selectors.
+
+# CSS Selectors
 
 ```
-<div>
-    <img src="https://github.com/SaphMB/iwd-workshop/blob/master/images/dorothy-vaughan.jpg?raw=true" alt="dorothy-vaughan" >
-</div>
+body {
+  color: hotpink;
+}
 ```
 
-You can also add `align` to yor image tag to align your image to the left or right. eg 
+body is a selector
 
-`<img src="https://github.com/SaphMB/iwd-workshop/blob/master/images/dorothy-vaughan.jpg?raw=true" alt="dorothy-vaughan" align="right" >`
+color is a property
 
-Here are a few more images you can add to your page:
+hotpink is a value
 
-[Dorthy Vaughan](https://github.com/SaphMB/iwd-workshop/blob/master/images/dorothy-vaughan2.jpeg?raw=true)
-[Octavia Spencer as Dorothy Vaughan](https://github.com/SaphMB/iwd-workshop/blob/master/images/hidden-figures1.gif?raw=true)
-[Octavia Spencer as Dorothy Vaughan](https://github.com/SaphMB/iwd-workshop/blob/master/images/hidden-figures2.gif?raw=true)
+selector {
+  property: value;
+}
 
-Up next: [Styling with CSS](https://saphmb.github.io/iwd-workshop/2018/03/08/6-styling-with-css.html)
+A group of properties for the given selector is defined within the curly braces
+
+body {
+  color: hotpink;
+  font-size: 12px;
+}
+
+# Getting started with CSS
+
+CSS styling sits within style tags in your code. Add a style tag to the head of your html
+
+```
+<head>
+  <title>Dorothy Vaughan</title>
+  <style type="text/css">
+
+  </style>
+</head>
+```
+
+Let’s set the font that we want our page to use:
+
+```
+body {
+   font-family: Helvetica, Arial, sans-serif;
+}
+```
+As we have selected the body element, this change will apply to everything nested within it, the entire contents of our page.
+
+There are a few more properties we can change in the body. Try updating the text `color` and `background-color`.
+
+With CSS, we can update any html element's proprties. Try changing the `list-style` of your `ul` to `none`.
+
+# Using font libraries
+
+The fonts provided by default aren't that exciting, but we can use font libraries to increase our options. Visit Google fonts and choose a font for your page title. Click the `+` icon to select your font. Once selected, open the `Family Selected` window that should have appeared at the bottom of the screen. This provides you with two bits of code, the link to the font library
+
+```
+<link href="https://fonts.googleapis.com/css?family=Comfortaa" rel="stylesheet">
+``` 
+
+and the CSS properties to update
+
+```
+font-family: 'Comfortaa', cursive;
+```
+
+Add the link to font library to your `head` outside of the `style` block and update the selcetor for your page title with the new CSS properties.
+
+# Images
+
+Like your text and body, your images `img` can be styled with CSS. 
+
+Try styling your images with `border-radius`.
+
+Checkout what else you can with your images (and other elements) on [w3schools](https://www.w3schools.com/css/css3_images.asp).
